@@ -1,0 +1,434 @@
+[
+   {
+      "description":"uma receita super tradicional que leva postas de bacalhau, tomates, batatas, louro, azeite de oliva, vinho branco, alho e sal. Tudo isso é refogado junto, garantindo uma mistura de sabores incrível.",
+      "id":1,
+      "title":"Bacalhau à espanhola",
+      "url":"http://gastrolandia.com.br/receitas/bacalhau-a-espanhola-2/"
+   },
+   {
+      "description":"este prato tradicional da culinária portuguesa é preparado com bacalhau desfiado e batata palha caseira. Não tem como dar errado. A receita leva ainda bastante cebola, alho, salsinha, e louro para temperar.",
+      "id":2,
+      "title":"Bacalhau à Brás",
+      "url":"http://melepimenta.com/2015/03/bacalhau-bras.html"
+   },
+   {
+      "description":"as postas assadas ao forno também são uma forma bastante tradicional de preparar o peixe. A dica é dessalgar bem antes de assar, para que o sabor não fique muito carregado.",
+      "id":3,
+      "title":"Bacalhau ao forno",
+      "url":"http://receitasecoisas.com/tag/bacalhau/"
+   },
+   {
+      "description":"essa receita tem um sabor mediterrânico por causa da combinação do bacalhau, com azeitonas, azeite de oliva e ovos cozidos. Fica uma delícia.",
+      "id":4,
+      "title":"Bacalhau ao forno com azeitonas e ovos cozidos",
+      "url":"http://naminhapanela.com/2010/12/10/bacalhau-com-batatas-de-outra-forma/"
+   },
+   {
+      "description":"essa é uma receita portuguesa descrita no livro Longe de Manaus, de Francisco José Viegas. Você vai precisar de bacalhau, cebola, alhos, tomates, pimentão e arroz para se sentir no romance policial.",
+      "id":5,
+      "title":"Arroz de bacalhau à Francisco José Viegas",
+      "url":"http://www.cincoquartosdelaranja.com/2007/11/arroz-de-bacalhau-do-francisco-jos.html"
+   },
+   {
+      "description":"mais uma clássica receita portuguesa, que leva nata (ou creme de leite fresco). O preparo das natas leva cebola e alho refogados, leite e a nata. Essa mistura vai por cima das lascas de bacalhau antes de ir ao forno. Vale a pena experimentar.",
+      "id":6,
+      "title":"Bacalhau às natas",
+      "url":"https://lazzgourmet.com/2014/07/31/bacalhau-com-natas/"
+   },
+   {
+      "description":"os portugueses dominam a técnica de preparar o bacalhau. Essa receita é da região da cidade do Porto e leva postas de bacalhau, leite, batatas, cebolas, alho, azeite, azeitonas pretas, ovos, salsa e sal. Depois de montado, o bacalhau vai ao forno por cerca de 15 minutos.",
+      "id":7,
+      "title":"Bacalhau à Gomes de Sá",
+      "url":"http://www.cincoquartosdelaranja.com/2015/08/bacalhau-a-gomes-de-sa.html"
+   },
+   {
+      "description":"mais uma receita do Brás, dessa vez levando batata palha industrializada e muitas azeitonas para garantir o sabor.",
+      "id":8,
+      "title":"Bacalhau à Brás com azeitonas",
+      "url":"http://gordelicias.biz/index.php/2015/12/23/bacalhau-a-bras/"
+   },
+   {
+      "description":"a receita italiana leva creme de leite, molho bechamel, espinafre, sal, noz moscada, bacalhau, parmesão ralado, azeite, cebolas, batatas e tomates. O bacalhau e coberto com um creme de espinafre na hora de servir.",
+      "id":9,
+      "title":"Bacalhau à Fiorentina",
+      "url":"http://gastrolandia.com.br/receitas/bacalhau-a-fiorentina/"
+   },
+   {
+      "description":"a variação no prato clássico fica por conta dos temperos. As ervas secas e a pimenta trazem um sabor diferente ao peixe que, normalmente, tem o sal como principal tempero.",
+      "id":10,
+      "title":"Bacalhau à Gomes de Sá com ervas secas e pimenta",
+      "url":"http://figosefunghis.com.br/bacalhau-a-gomes-de-sa/"
+   },
+   {
+      "description":"mais uma receita de origem portuguesa, que leva cebolas, batatas, tomate, ovos e couve-flor cozidos.",
+      "id":11,
+      "title":"Bacalhau à portuguesa",
+      "url":"http://comidadodia.com/bacalhau-a-portuguesa-2/"
+   },
+   {
+      "description":"após cobertas com o molho de natas, as postas são polvilhadas com farinha de rosca para, no forno, criarem uma casquinha que vai fazer toda diferença no sabor.",
+      "id":12,
+      "title":"Bacalhau às natas empanado",
+      "url":"http://www.marolacomcarambola.com.br/bacalhau-com-natas/"
+   },
+   {
+      "description":"as postas de bacalhau são acompanhadas com dois pratos clássicos e fáceis de preparar: o arroz de brócolis e as batatas ao murro. Agrada à todos.",
+      "id":13,
+      "title":"Bacalhau com arroz de brócolis e batatas ao murro",
+      "url":"http://gastrolandia.com.br/receitas/bacalhau-ao-forno-com-arroz-de-brocolis/"
+   },
+   {
+      "description":"a receita, bastante trabalhosa, começa com o processo de dessalgar o bacalhau por 48 horas. Mas vale todo o esforço, o sabor fica suave e delicioso.",
+      "id":14,
+      "title":"Bocados de bacalhau",
+      "url":"http://www.segredosdatiaemilia.com.br/2013/08/05/bocados-de-bacalhau/"
+   },
+   {
+      "description":"o lombo de bacalhau é preparado com azeite de dendê, cebola, pimentão e quiabo. A mistura é diferente e bem “abrasileirada”. Experimente.",
+      "id":15,
+      "title":"Bacalhau escaldado com pirão",
+      "url":"http://www.segredosdatiaemilia.com.br/2014/04/17/escaldado-de-bacalhau-com-pirao/"
+   },
+   {
+      "description":"o peixe, cortado em lascas, vai ao forno com pimentões, batatas, cebola e azeitonas. É fácil de preparar e fica muito gostoso.",
+      "id":16,
+      "title":"Bacalhau em lascas ao forno",
+      "url":"http://cozinhatravessa.com.br/post/receita-de-lascas-de-bacalhau-ao-forno/"
+   },
+   {
+      "description":"como diz o nome da receita, vai muita cebola nesse bacalhau. O ingrediente ajuda a balancear o sabor forte do peixe.",
+      "id":17,
+      "title":"Bacalhau de cebolada no forno",
+      "url":"http://www.sweetmykitchen.com/2016/05/bacalhau-de-cebolada-no-forno.html"
+   },
+   {
+      "description":"para essa receita, as postas de bacalhau devem ser desfiadas após serem dessalgadas, e depois o peixe deve ser refogado com cebola, alho, tomate, azeitonas e salsinha. Rápido e delicioso.",
+      "id":18,
+      "title":"Bacalhau refogado clássico",
+      "url":"http://panelaterapia.com/2012/07/novidade-e-refogado-basico-de-bacalhau.html"
+   },
+   {
+      "description":"o bacalhau na brasa é preparado em filé e marinado em azeite aromatizado. Por ser assado na brasa, o peixe fica com aquele sabor característico, que agrada os amantes de churrasco.",
+      "id":19,
+      "title":"Bacalhau na brasa",
+      "url":"http://figosefunghis.com.br/bacalhau-na-brasa"
+   },
+   {
+      "description":"essa receita leva arroz arbóreo, lascas de bacalhau, caldo de peixe. Louro, alho, pimentões variados, parmesão, manteiga e ervas. Fica leve e muito gostoso.",
+      "id":20,
+      "title":"Bacalhau praiano",
+      "url":"http://gastrolandia.com.br/receitas/risoto-de-bacalhau-praiano/"
+   },
+   {
+      "description":"o segredo dessa receita é utilizar o bacalhau seco, que já é menos salgado que os demais. Acompanhado com batatas cozidas, esse prato é nutritivo, leve e saboroso.",
+      "id":21,
+      "title":"Bacalhau light",
+      "url":"http://blogdamimis.com.br/2013/03/26/especial-de-pascoa-bacalhoada-light/"
+   },
+   {
+      "description":"a receita tem inspiração portuguesa, e leva muita cebola, tomate, azeitonas e batatas cozidas.",
+      "id":22,
+      "title":"Bacalhau da Tia Emília",
+      "url":"http://www.segredosdatiaemilia.com.br/2012/05/09/bacalhau-tia-emilia/"
+   },
+   {
+      "description":"uma receita trabalhosa e com uma mistura de sabores bem diferente. Você vai precisar de bacalhau, batatas, creme de leite fresco, manteiga, alho, cebolinha, azeite, presunto, maracujás, sal e pimenta.",
+      "id":23,
+      "title":"Brandade de bacalhau com crispies de presunto cru e maracujá",
+      "url":"http://www.dedodemoca.net/receitas/brandade-de-bacalhau-com-crispie-de-presunto-cru-e-maracuja-doce/"
+   },
+   {
+      "description":"essa receita é para impressionar os convidados! São dois preparos separados, e muitos ingredientes. O bacalhau leva as postas do peixe, azeite, óleo de girassol, alho e raspas de laranja. O molho de romã leva gemas, vinagre de Jerez, creme de leite fresco, grenadine e sal. O sabor é diferente e vale a pena experimentar.",
+      "id":24,
+      "title":"Bacalhau confitado com molho de romã",
+      "url":"http://www.projetobanquete.com/bacalhau-confitado-com-molho-de-roma/"
+   },
+   {
+      "description":"o creme de mandioca que acompanha o prato leva também batata doce, espinafre e leite de coco. O bacalhau é preparado com gengibre, alho poró e maças verdes. Fica refrescante e saboroso.",
+      "id":25,
+      "title":"Bacalhau em lascas com creme de mandioca e maça verde",
+      "url":"http://gastrolandia.com.br/receitas/bacalhau-em-lascas-com-creme-de-mandioca-e-maca-verde/"
+   },
+   {
+      "description":"esse confit de bacalhau leva tomates e alho frito. O sabor fica interessante e combina bem batatas ou uma salada leve",
+      "id":26,
+      "title":"Bacalhau confitado",
+      "url":"http://panelaterapia.com/2012/08/bacalhau-confitado.html"
+   },
+   {
+      "description":"nessa receita, o peixe será assado com legumes e azeite de oliva dentro de um envelope de papel alumínio ou papel manteiga. Esse “envelope” faz com que os legumes cozinhem junto com o peixe, e o sabor fique bem acentuado",
+      "id":27,
+      "title":"Papelote de bacalhau com legumes",
+      "url":"http://panelaterapia.com/2012/10/papelote-de-bacalhau-com-legumes.html"
+   },
+   {
+      "description":"essa receita é ideal para dias bem frios. As lascas, a batata, espinafre, creme de leite, manteiga e temperos são preparados, misturados e colocados dentro de uma broa, que vai ao forno por alguns minutos antes de servir. Fica bonito, saboroso e bem quentinho.",
+      "id":28,
+      "title":"Bacalhau na broa",
+      "url":"http://figosefunghis.com.br/bacalhau-na-broa/"
+   },
+   {
+      "description":"a brandade de bacalhau leva o peixe desfiado, cebola, miolo de pão, creme de leite, cebolinha e pimenta moída na hora. Depois do prato montado, é só levar ao forno por alguns minutos.",
+      "id":29,
+      "title":"Brandade de bacalhau",
+      "url":"http://naminhapanela.com/2015/12/21/brandade-de-bacalhau/"
+   },
+   {
+      "description":"os ninhos são preparados com macarrão talharim e são recheados com bacalhau desfiado, bem temperado e refogado. O prato fica lindo, e é uma boa dica para impressionar os convidados.",
+      "id":30,
+      "title":"Ninhos de bacalhau",
+      "url":"http://panelaterapia.com/2012/11/ninhos-de-bacalhau.html"
+   },
+   {
+      "description":"os lombos de bacalhau são assados, e cobertos com cebolas carameladas preparadas na frigideira. A mistura do salgado do peixe com o adocicado das cebolas é muito interessante.",
+      "id":31,
+      "title":"Lombo de bacalhau com cebolas carameladas",
+      "url":"http://panelaterapia.com/2012/11/lombo-de-bacalhau-com-cebolas.html"
+   },
+   {
+      "description":"para os apreciadores de risotos, essa é uma receita certeira. O bacalhau é utilizado em lascas e acompanhado de caldo de legumes, vinho branco e manteiga. Fica uma delícia.",
+      "id":32,
+      "title":"Risoto de bacalhau",
+      "url":"http://cozinhatravessa.com.br/post/risoto-de-bacalhau/"
+   },
+   {
+      "description":"fácil de prepara, pois leva todos os ingredientes em uma única assadeira, essa receita fica muito saborosa. O tempo de forno é de 40 minutos.",
+      "id":33,
+      "title":"Lombo de bacalhau com batata doce",
+      "url":"http://cozinhatravessa.com.br/post/receita-de-lombo-de-bacalhau-ao-forno-com-batata-doce-e-mini-tomates/"
+   },
+   {
+      "description":"o segredo dessa receita é caprichar no parmesão ralado sobre o creme de bacalhau antes de colocá-lo para assar, para garantir que fique com uma casquinha bem dourada.",
+      "id":34,
+      "title":"Brandade gratinada de bacalhau",
+      "url":"http://figosefunghis.com.br/brandade-de-bacalhau"
+   },
+   {
+      "description":"mais uma receita de risoto. Dessa vez, você deve misturar no arroz com bacalhau uma porção de brócolis cozidos. A combinação é certeira.",
+      "id":35,
+      "title":"Risoto de brócolis e bacalhau",
+      "url":"http://panelaterapia.com/2012/08/risoto-de-brocolis-com-lombo-de.html"
+   },
+   {
+      "description":"essa receita inspira-se no famoso bife Wellington, e tem o bacalhau envolvido em massa folhada. O tempo de preparo é um tanto demorado, mas o resultado é surpreendente.",
+      "id":36,
+      "title":"Bacalhau encapado",
+      "url":"http://www.segredosdatiaemilia.com.br/2013/03/27/bacalhau-encapado/"
+   },
+   {
+      "description":"uma receita com gostinho bem brasileiro. Leva molho de tomate, leite de coco, repolho, ovos, bacalhau e muitos temperos. Experimente essa variação.",
+      "id":37,
+      "title":"Bacalhau no coco",
+      "url":"http://www.pitadinha.com/2016/03/bacalhau-no-coco.html"
+   },
+   {
+      "description":"mais uma receite que coloca um toque brasileiro no peixe de tradição europeia. A receita é de uma moqueca clássica, na qual apenas o peixe branco é substituído pelo bacalhau.",
+      "id":38,
+      "title":"Moqueca de bacalhau",
+      "url":"http://www.segredosdatiaemilia.com.br/2013/11/25/moqueca-de-bacalhau/"
+   },
+   {
+      "description":"essa é uma receita para inovar. As almofadinhas são uma massa semelhante a um crepe, que você irá prepara, rechear com bacalhau desfiado e cobrir com molho branco. Uma delícia.",
+      "id":39,
+      "title":"Almofadinhas de bacalhau",
+      "url":"http://panelaterapia.com/2012/12/almofadinha-de-bacalhau.html"
+   },
+   {
+      "description":"a receita leva uma camada de bacalhau desfiado, outra de batata e a final de creme de queijo. Antes de colocar para assar, finalize com parmesão ralado, para conseguir aquela casquinha irresistível .",
+      "id":40,
+      "title":"Bacalhau gratinado",
+      "url":"http://gordelicias.biz/index.php/2016/03/21/bacalhau-gratinado/"
+   },
+   {
+      "description":"esse prato é preparado em camadas. Primeiro a camada de bacalhau desfiado, em seguida camarões refogados com cebola e azeite e, por fim, uma camada de molho branco e parmesão ralado para gratinar. Tem que servir bem quente.",
+      "id":41,
+      "title":"Bacalhau gratinado com camarões",
+      "url":"http://gastrolandia.com.br/receitas/bacalhau-gratinado-com-camaroes-e-molho-branco/"
+   },
+   {
+      "description":"a receita é muito fácil, e leva poucos ingredientes. Você vai precisar de grão de bico cozido (reserve a água do cozimento), cebola, azeite, creme de ricota, parmesão ralado, bacalhau refogado e temperinhos. Com o grão de bico, você prepara uma massa que será a base do prato. Depois só recheá-la com o bacalhau e cobrir com creme de ricota e queijo parmesão antes de ir ao forno. Você não vai se arrepender.",
+      "id":42,
+      "title":"Bacalhau gratinado com grão de bico",
+      "url":"http://naminhapanela.com/2014/04/18/gratinado-de-bacalhau-com-grao-de-bico/"
+   },
+   {
+      "description":"para esse prato, você utiliza a receita clássica de molho bechamel para cobrir o preparo de bacalhau com batata cozida amassada. São só 15 minutos de forno para experimentar essa delícia.",
+      "id":43,
+      "title":"Bacalhau gratinado com molho bechamel",
+      "url":"http://www.marolacomcarambola.com.br/bacalhau-gratinado/"
+   },
+   {
+      "description":"a receita leva bacalhau desfiado, batatas cozidas, creme de leite, vinho branco seco, salsinha, cebola, azeite, claras em neve, creme de leite, parmesão ralado, sal e pimenta. Por cima da massa de bacalhau com batatas, você deve colocar um creme de claras com creme de leite, e polvilhar parmesão no final. Fica sensacional.",
+      "id":44,
+      "title":"Bacalhau gratinado cremoso",
+      "url":"http://blogdobomgosto.com/imperdiveis/receita-escrita-bacalhau-cremoso-facil-e-economico/?receita=sim"
+   },
+   {
+      "description":"você irá preparar um bacalhau desfiado refogado super temperado, antes de cobri-lo com creme de leite e colocá-lo no forno para gratinar.",
+      "id":45,
+      "title":"Bacalhau espiritual",
+      "url":"http://www.segredosdatiaemilia.com.br/2014/05/23/bacalhau-espiritual/"
+   },
+   {
+      "description":"você vai precisar de batatas, bacalhau desfiado, azeite, alho, creme de leite, azeitonas pretas e verdes, manteiga e requeijão. A receita é simples e rápida, e o resultado delicioso.",
+      "id":46,
+      "title":"Bacalhau gratinado tradicional",
+      "url":"//moldandoafeto.com/tag/bacalhau/"
+   },
+   {
+      "description":"o segredo dessa receita fica por conta do toque de noz moscada no tempero do bacalhau. Faz toda a diferença.",
+      "id":47,
+      "title":"Bacalhau à Ignez",
+      "url":"http://comidadodia.com/bacalhau-a-ignez/"
+   },
+   {
+      "description":"para essa receita, você prepara um creme de espinafre com molho branco para cobrir o bacalhau antes de ir ao forno. A combinação de espinafre com bacalhau é bastante saborosa.",
+      "id":48,
+      "title":"Bacalhau gratinado com espinafre",
+      "url":"http://www.sweetmykitchen.com/2015/11/bacalhau-gratinado-com-espinafres.html"
+   },
+   {
+      "description":"ao invés de polvilhar o creme com queijo parmesão ralado, essa receita sugere que essa casquinha que vai gratinar no forno seja feita de broa de milho esfarelada. Fica com um gostinho bem especial.",
+      "id":49,
+      "title":"Bacalhau gratinado com broa de milho",
+      "url":"http://www.cincoquartosdelaranja.com/2009/11/bacalhau-com-broa-de-milho-e-couve.html"
+   },
+   {
+      "description":"mais uma dica para variar o sabor da casquinha que fica sobre o creme com bacalhau: use bolacha cream cracker, ou similar, bem esfarelada. Fica diferente e bem sequinho.",
+      "id":50,
+      "title":"Bacalhau gratinado com farofa de cream cracker",
+      "url":"http://www.aquinacozinha.com/receita-de-bacalhau-e-farofa-de-cream-cracker/"
+   },
+   {
+      "description":"uma boa sugestão para inovar no preparo do bacalhau, ou de outros peixes, é agrega-lo ao couscous, que é um prato super leve e saboroso.",
+      "id":51,
+      "title":"Couscous com bacalhau e aspargos",
+      "url":"http://www.dedodemoca.net/receitas/salada-de-couscous-marroquino-com-lascas-de-bacalhau-e-aspargos/"
+   },
+   {
+      "description":"a receita leva bacalhau, salsa, cebola, azeite, batatas, azeitonas e ovos. O preparo é rápido e o resultado muito interessante.",
+      "id":52,
+      "title":"Salada de bacalhau desfiado",
+      "url":"http://www.segredosdatiaemilia.com.br/2012/06/25/bacalhau-desfiado-2/"
+   },
+   {
+      "description":"essa combinação de sabores é bem atraente, e o preparo muito fácil.",
+      "id":53,
+      "title":"Salada de bacalhau com grão de bico",
+      "url":"http://www.dedodemoca.net/receitas/salada-de-bacalhau-com-grao-de-bico/"
+   },
+   {
+      "description":"a receita leva azeite, cebola, alho, azeitonas. Tomates, pimentões, salsinha, bacalhau desfiado e couscous. Fica muito saboroso e pronto rapidinho!",
+      "id":54,
+      "title":"Couscous de bacalhau",
+      "url":"http://panelaterapia.com/2012/10/couscous-de-bacalhau.html"
+   },
+   {
+      "description":"nessa receita você aprende dicas para dessalgar o bacalhau, e também para prepara o molho da maionese à base de ovos. Vale a pena experimentar.",
+      "id":55,
+      "title":"Maionese de bacalhau",
+      "url":"http://www.aquinacozinha.com/maionese-de-bacalhau/"
+   },
+   {
+      "description":"mais uma combinação de bacalhau com grãos, que fica muito leve e saborosa.",
+      "id":56,
+      "title":"Salada de bacalhau com feijão fradinho",
+      "url":"http://www.segredosdatiaemilia.com.br/2015/07/06/combinacao-de-bacalhau-com-feijao-fradinho/"
+   },
+   {
+      "description":"para o recheio da torta, você precisa de bacalhau, alho, azeite, cebola, pimentão, salsinha, batatas e alho poró. A massa leva apenas ovos, margarina e farinha de trigo. A parte mais complicada é o preparo e a abertura da massa, mas vale a pena.",
+      "id":57,
+      "title":"Torta de bacalhau cremoso",
+      "url":"http://gastrolandia.com.br/receitas/torta-de-bacalhau-cremoso-3/"
+   },
+   {
+      "description":"o recheio leva à base tradicional de ovos e creme leite, complementada com bacalhau desfiado. Uma boa opção para o lanche da tarde.",
+      "id":58,
+      "title":"Quiche de bacalhau",
+      "url":"http://www.aquinacozinha.com/quiche-de-bacalhau/"
+   },
+   {
+      "description":"a massa é o grande diferencial dessa torta que, por ser feira com arroz, traz um sabor diferente e é muito mais leve. Experimente essa massa com outros recheios além do bacalhau.",
+      "id":59,
+      "title":"Torta de bacalhau com massa de arroz",
+      "url":"http://www.carameloesal.com/2014/04/torta-de-bacalhau-com-massa-de-arroz.html"
+   },
+   {
+      "description":"a combinação de massas com frutos do mar é um pouco delicada. Aqui, o que garante a leveza do sabor é a opção por uma massa verde e um molho branco bem leve.",
+      "id":60,
+      "title":"Lasanha verde de bacalhau",
+      "url":"http://www.sweetmykitchen.com/2015/12/lasanha-verde-de-bacalhau.html"
+   },
+   {
+      "description":"a massa da lasanha é substituída por finas camadas de batata, de forma que não há risco de uma confusão de sabores. Fica uma delícia.",
+      "id":61,
+      "title":"Lasanha de batatas e bacalhau",
+      "url":"http://panelaterapia.com/2012/12/lasanha-de-bacalhau-com-batatas.html"
+   },
+   {
+      "description":"o bacalhau desfiado e refogado é coberto por um purê de aipim e uma camada de queijo. Leve ao forno para gratinar antes de servir. É maravilhoso.",
+      "id":62,
+      "title":"Escondidinho de bacalhau",
+      "url":"http://www.aquinacozinha.com/escondidinho-de-bacalhau-este-e-de-comer-de-joelhos/"
+   },
+   {
+      "description":"a variação nesse prato fica por conta do purê, que é feito com moranga. O sabor surpreende.",
+      "id":63,
+      "title":"Escondidinho de bacalhau e purê de moranga",
+      "url":"http://cozinhatravessa.com.br/post/escondidinho-de-bacalhau-com-pure-de-moranga/"
+   },
+   {
+      "description":"com as sobras do bacalhau podemos fazer vários pratos. Os bolinhos são as escolhas mais tradicionais, e que agradam todo mundo. Nessa receita você ainda aprende a fazer um molho tártaro para acompanhar.",
+      "id":64,
+      "title":"Bolinho de bacalhau com molho tártaro",
+      "url":"http://www.marolacomcarambola.com.br/bolinho-de-bacalhau/"
+   },
+   {
+      "description":"a bruschetta é uma sugestão ótima para aproveitar as lascas do bacalhau, pois rendem uma entrada bem requintada para um jantar diferente.",
+      "id":65,
+      "title":"Bruschetta de bacalhau",
+      "url":"http://naminhapanela.com/2014/12/09/bruschetta-de-bacalhau/"
+   },
+   {
+      "description":"mais um prato que todo mundo gosta. A massa desse pastel é diferente, pois é à base de batatas. Vale experimentar e aproveitar para outros recheios.",
+      "id":66,
+      "title":"Pastel de bacalhau",
+      "url":"http://www.sweetmykitchen.com/2016/07/pasteis-de-bacalhau.html"
+   },
+   {
+      "description":"as pataniscas são as versões portuguesas do nosso bolinho de bacalhau. O toque que faz a diferença é o uso do suco de limão siciliano no tempero.",
+      "id":67,
+      "title":"Pataniscas",
+      "url":"http://gastrolandia.com.br/receitas/pataniscas-bolinho-de-bacalhau/"
+   },
+   {
+      "description":"as massas de empadinhas são tradicionais e recheadas com o bacalhau desfiado bem temperadinho. O tempo de forno é de cerca de 30 minutos. Uma ótima opção para um lanche de última hora.",
+      "id":68,
+      "title":"Empadinhas de bacalhau",
+      "url":"http://panelaterapia.com/2012/08/empadinhas-de-bacalhau.html"
+   },
+   {
+      "description":"com uma massa bem leve, essas cestinhas são uma ótima opção para um lanchinho sem peso na consciência.",
+      "id":69,
+      "title":"Cestinhas de bacalhau",
+      "url":"http://panelaterapia.com/2012/11/cestinha-de-bacalhau.html"
+   },
+   {
+      "description":"essa receita não é para aproveitar as sobras do bacalhau em si, mas de risotos preparados com ele. Os bolinhos continuam sendo uma ótima pedida para não desperdiçar nada. Só é preciso uma atenção maior na quantidade de farinha para dar liga, pois a massa é um pouco mais cremosa.",
+      "id":70,
+      "title":"Bolinho de risoto de bacalhau",
+      "url":"http://panelaterapia.com/2012/09/bolinho-de-risoto-de-bacalhau.html"
+   },
+   {
+      "description":"o bolinho assado é uma opção para quem não quer exagerar nas frituras. O sabor do bacalhau garante um petisco com sabor marcante, mesmo sem fritá-lo.",
+      "id":71,
+      "title":"Bolinho assado de bacalhau",
+      "url":"http://panelaterapia.com/2015/06/bolinho-de-bacalhau-assado.html"
+   },
+   {
+      "description":"a receita leva arroz, bacalhau em lascas ou desfiado, azeitonas, tomate, tomate pelado, azeite, água, sal e caldo de peixe. O preparo é rápido e o sabor incrível.",
+      "id":72,
+      "title":"Arroz de bacalhau",
+      "url":"http://cozinhatravessa.com.br/post/receita-de-arroz-de-bacalhau/"
+   }
+]
